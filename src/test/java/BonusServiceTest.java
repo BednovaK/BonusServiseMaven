@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class BonusServiceTest {
+public class BonusServiceTest {
 
     @Test
     void shouldCalculateForRegisteredAndUnderLimit() {
